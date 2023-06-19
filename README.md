@@ -18,7 +18,7 @@ A passionate self taught full stack developer | Youtuber from Nepal .
   <img align="left" alt="ismail | Medium" width="30px" src="https://github.com/arjun-sudo/arjun-sudo/blob/master/assets/instagram.svg" />
 </a>
 
-<a href="[(https://www.facebook.com/profile.php?id=100007602408797)" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=100007602408797" target="_blank">
   <img align="left" alt="ismail | facebook" width="30px" src="https://github.com/arjun-sudo/arjun-sudo/blob/master/assets/facebook.svg" />
 </a>
 <br>
