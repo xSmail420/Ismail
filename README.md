@@ -14,9 +14,6 @@ A passionate self taught full stack developer | Youtuber from Nepal .
   <img align="left" alt="ismail | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://medium.com/@codewitharjun" target="_blank">
-  <img align="left" alt="ismail | Medium" width="30px" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/medium.png" />
-</a>
 <a href="https://www.instagram.com/ismail_gr_______/" target="_blank">
   <img align="left" alt="ismail | Medium" width="30px" src="https://github.com/arjun-sudo/arjun-sudo/blob/master/assets/instagram.svg" />
 </a>
