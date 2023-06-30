@@ -1,7 +1,7 @@
 # Ismail
 ### Hi there , I'm Ismail👋
 
-A passionate self taught full stack developer | Youtuber from Nepal .
+A passionate self taught full stack developer.
 
 - 🔭 I’m currently working on something cool .
 - 🌱 I’m currently learning Spring Boot, React, JavaScript, Typescript.
@@ -53,7 +53,7 @@ A passionate self taught full stack developer | Youtuber from Nepal .
 
 **Github Stats:**
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xSmail420&show_icons=true&include_all_commits=true&theme=dark" alt="Ismail's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=s4iten&show_icons=true&include_all_commits=true&theme=dark" alt="Ismail's github stats" />
 
 **🔠 Spoken languages:**
 - Arabic
