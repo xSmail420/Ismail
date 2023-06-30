@@ -53,7 +53,7 @@ A passionate self taught full stack developer.
 
 **Github Stats:**
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=s4iten&show_icons=true&include_all_commits=true&theme=dark" alt="Ismail's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xSmail420&show_icons=true&include_all_commits=true&theme=dark" alt="Ismail's github stats" />
 
 **🔠 Spoken languages:**
 - Arabic
